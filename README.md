@@ -1,6 +1,7 @@
 [![](https://img.shields.io/badge/ThomasBarber-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-barber-b3965551/) &nbsp; [![](https://img.shields.io/badge/tmbrbr-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmbrbr)
 
 # Thomas Barber
+An online version of this resume is available [here](https://tmbrbr.github.io/resume/).
 
 ## Skills and Expertise
  * Programming Skills: C/C++, Python, Java, JavaScript, C# 
