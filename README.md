@@ -34,15 +34,15 @@ An online version of this resume is available [here](https://tmbrbr.github.io/re
 
 ## Education
 * PhD Experimental Particle Physics @ [University of Cambridge](https://www.cam.ac.uk/) *(2006-2010)*
- - Topic: [New physics searches in the ZZ sector with the ATLAS experiment](https://www.repository.cam.ac.uk/items/c40242a4-ba90-411c-afa3-3c2eef841f46)
- - Processing and statistical analysis of data from the LHC @ [CERN](https://home.cern/)
- - Development of embedded readout software for the Data Acquistion System of the ATLAS Semiconductor Tracker 
+  - Topic: [New physics searches in the ZZ sector with the ATLAS experiment](https://www.repository.cam.ac.uk/items/c40242a4-ba90-411c-afa3-3c2eef841f46)
+  - Processing and statistical analysis of data from the LHC @ [CERN](https://home.cern/)
+  - Development of embedded readout software for the Data Acquistion System of the ATLAS Semiconductor Tracker 
 * MSc. Natural Sciences @ [University of Cambridge](https://www.cam.ac.uk/) *(2001-2005)*
- - Subjects: Maths, Physics
- - Result: First (Outstanding)
+  - Subjects: Maths, Physics
+  - Result: First (Outstanding)
 * GCE A-Levels @ [King Edward VI Grammar School](https://www.kegs.org.uk/) *(1994-2001)*
- - Maths, Physics, Chemistry, Music, General Studies
- - Results: All grade A (Outstanding)
+  - Maths, Physics, Chemistry, Music, General Studies
+  - Results: All grade A (Outstanding)
 
 ## Patents
  * [US11526600B2](https://patents.google.com/patent/US11526600B2/en): Taint tracking via non-intrusive bytecode instrumentation
