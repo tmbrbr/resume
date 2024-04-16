@@ -9,26 +9,25 @@ An online version of this resume is available [here](https://tmbrbr.github.io/re
 
 ## Professional Experience
 
-### SAP SE *February 2019 - Present*
-* Research Expert (Architect) since January 2023, previously Senior Researcher.
+**Research Expert** @ [SAP SE](https://www.sap.com/) *(2019 - Present)*
 * Industrial research into novel techniques for the detection of security and privacy vulnerabilities in web applications.
 * Security use-cases include the detection and prevention of injection vulnerabilties (XSS, CSRF, Request Hijacking) for interpreted languages (e.g. JavaScript, Java).
 * Privacy use-cases include automating GDPR compliance for legacy applications, and high-accuracy detection of browser fingerprinting.
 * Publication of results in top security conferences and transfer of prototypes into SAP.
 * Supervision of PhD and Master's Students and collaboration with external partners from industry and academia across the globe.
 
-### Intel Corporation *May 2014 - February 2019*
+**Senior Software Developer** @ [Intel](https://intel.com/) *(2014 - 2019)*
 * Designed and developed security software for next-generation automotive infotainment and software-defined cockpit platforms.
 * Including key storage solutions in trusted execution environments such as Linux kernel and Intel SGX.
 * Digital Rights Management solutions such as Widevine and HDCP.
 * Security Champion for the Transportation Solutions Division.
 * Scrum master for the Automotive Security team.
 
-### Vector Informatik GmbH *January 2013 - April 2014*
+**Software Developer** @ [Vector](https://www.vector.com/) *(2013 - 2014)*
  * Automotive firmware developer with a focus on the XCP remote calibration protocol over ethernet.
  * Designed and implemented an automated continuous regression test system to provide continuous integration of new features.
 
-### Albert-Ludwigs-Universität Freiburg im Breisgau *November 2010 - December 2012*
+**Postdoctoral Researcher** @ [University of Freiburg](https://uni-freiburg.de/) *(2010 - 2012)*
  * Analysed the first particle collision data from the ATLAS experiment at CERN to search for new Supersymmetric particles beyond the current Standard Model.
  * In parallel I engaged in Research and Development activities for the next generation of silicon-based particle detectors, including novel radiation detection systems.
  * This position included supervising PhD students and teaching undergraduate students.
