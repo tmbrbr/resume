@@ -16,7 +16,7 @@
 * Security use-cases include the detection and prevention of injection vulnerabilties (XSS, CSRF, Request Hijacking) for interpreted languages (e.g. JavaScript, Java).
 * Privacy use-cases include automating GDPR compliance for legacy applications, and high-accuracy detection of browser fingerprinting.
 * Publication of results in top security conferences and transfer of prototypes into SAP.
-* Supervision of PhD and Master's Students.
+* Supervision of PhD and Master's Students and collaboration with external partners from industry and academia across the globe.
 
 ### Intel Corporation *May 2014 - February 2019*
 * Designed and developed security software for next-generation automotive infotainment and software-defined cockpit platforms.
@@ -48,9 +48,12 @@
 
 ## Patents
 
-## Publications
 
-Full list of publications available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate).
+## Publications
+A selected list of publications is shown below. A full list is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate).
+*  [The Great Request Robbery: An Empirical Study of Client-side Request Hijacking Vulnerabilities on the Web](https://trouge.net/papers/sp24_request_hijacking.pdf), Khodayari, Soheil and Barber, Thomas and Pellegrino, Giancarlo. Proceedings of 45th IEEE Symposium on Security and Privacy, 2024
+*  [General Data Protection Runtime: Enforcing Transparent GDPR Compliance for Existing Applications](https://loxo.ias.cs.tu-bs.de/papers/2023_CCS_GDPR_tainting.pdf), David Klein, Benny Rolle, Thomas Barber, Manuel Karl, and Martin Johns. In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS '23)
+*  [Hand Sanitizers in the Wild: A Large-scale Study of Custom JavaScript Sanitizer Functions](https://loxo.ias.cs.tu-bs.de/papers/2022_EuroSP_JavaScript_Sanitizers.pdf). David Klein, Thomas Barber, Souphiane Bensalim, Ben Stock, Martin Johns, 7th IEEE European Symposium on Security and Privacy (EuroS&P 2022)
 
 ## Awards
 
