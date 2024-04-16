@@ -33,21 +33,21 @@ An online version of this resume is available [here](https://tmbrbr.github.io/re
  * This position included supervising PhD students and teaching undergraduate students.
 
 ## Open Source Projects
- * Lead developer and maintainer of [Project Foxhound](https://github.com/SAP/project-foxhound), an instrumented fork of the Firefox browser for security testing.
- * Developer of [Fontus](https://github.com/SAP/project-fontus), a bytecode rewriting engine for security and privacy policy enforcement.
- * Lead developer of the [Sanitizer Checker](https://github.com/SAP/sanitizer-checker), a symbolic string analysis framework to evaluate the security of sanitization functions.
+ * **Lead developer and maintainer** of [Project Foxhound](https://github.com/SAP/project-foxhound), an instrumented fork of the Firefox browser for security testing.
+ * **Developer** of [Fontus](https://github.com/SAP/project-fontus), a bytecode rewriting engine for security and privacy policy enforcement.
+ * **Lead developer** of the [Sanitizer Checker](https://github.com/SAP/sanitizer-checker), a symbolic string analysis framework to evaluate the security of sanitization functions.
 
 ## Education
 **PhD Experimental Particle Physics** @ [University of Cambridge](https://www.cam.ac.uk/) *(2006-2010)*
-  - Topic: [New physics searches in the ZZ sector with the ATLAS experiment](https://www.repository.cam.ac.uk/items/c40242a4-ba90-411c-afa3-3c2eef841f46)
-  - Wrote C++/Python algorithms to process and analyze data from the LHC @ [CERN](https://home.cern/)
-  - Development of embedded readout software for the Data Acquistion System of the ATLAS Semiconductor Tracker
+ - Topic: [New physics searches in the ZZ sector with the ATLAS experiment](https://www.repository.cam.ac.uk/items/c40242a4-ba90-411c-afa3-3c2eef841f46)
+ - Wrote C++/Python algorithms to process and analyze data from the LHC @ [CERN](https://home.cern/)
+ - Development of embedded readout software for the Data Acquistion System of the ATLAS Semiconductor Tracker
 **MSc. Natural Sciences** @ [University of Cambridge](https://www.cam.ac.uk/) *(2001-2005)*
-  - Subjects: Maths, Advanced Physics
-  - Result: First (Outstanding)
+ - Subjects: Maths, Advanced Physics
+ - Result: First (Outstanding)
 **GCE A-Levels** @ [King Edward VI Grammar School](https://www.kegs.org.uk/) *(1994-2001)*
-  - Maths, Physics, Chemistry, Music, General Studies
-  - Results: All grade A (Outstanding)
+ - Maths, Physics, Chemistry, Music, General Studies
+ - Results: All grade A (Outstanding)
 
 ## Patents
  * [US11526600B2](https://patents.google.com/patent/US11526600B2/en): Taint tracking via non-intrusive bytecode instrumentation
@@ -61,10 +61,10 @@ A selected list of publications is shown below. A full list is available on [Goo
  *  [Hand Sanitizers in the Wild: A Large-scale Study of Custom JavaScript Sanitizer Functions](https://loxo.ias.cs.tu-bs.de/papers/2022_EuroSP_JavaScript_Sanitizers.pdf). David Klein, Thomas Barber, Souphiane Bensalim, Ben Stock, Martin Johns, 7th IEEE European Symposium on Security and Privacy (EuroS&P 2022)
 
 ## Awards
-* 2020, 2021, 2023: SAP *Spot Awaard* for outstanding performance.
-* 2018: Intel *Divisional Recognition Awards* for designing and implementing a software solution to meet strict customer deadlines.
-* 2005: Univesity of Cambridge *Doncaster Prize* for exam results in Natural Sciences.
-* 2004: University of Edinburgh: *Cormack Scholarship* for best summer student project in astrophysics.
+* **Spot Awards** @ SAP *(2020, 2021, 2023)* for outstanding performance.
+* **Divisional Recognition Awards** @ Intel *(2018)* for designing and implementing a software solution to meet strict customer deadlines.
+* **Doncaster Prize** @ Univesity of Cambridge *(2005)* for exam results in Natural Sciences.
+* **Cormack Scholarship** @ University of Edinburgh *(2004)* for best summer student project in astrophysics.
 
 
 
