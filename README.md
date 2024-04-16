@@ -32,13 +32,18 @@ An online version of this resume is available [here](https://tmbrbr.github.io/re
  * In parallel I engaged in Research and Development activities for the next generation of silicon-based particle detectors, including novel radiation detection systems.
  * This position included supervising PhD students and teaching undergraduate students.
 
+## Open Source Projects
+ * Lead developer and maintainer of [Project Foxhound](https://github.com/SAP/project-foxhound), an instrumented fork of the Firefox browser for security testing.
+ * Developer of [Fontus](https://github.com/SAP/project-fontus), a bytecode rewriting engine for security and privacy policy enforcement.
+ * Lead developer of the [Sanitizer Checker](https://github.com/SAP/sanitizer-checker), a symbolic string analysis framework to evaluate the security of sanitization functions.
+
 ## Education
 * PhD Experimental Particle Physics @ [University of Cambridge](https://www.cam.ac.uk/) *(2006-2010)*
   - Topic: [New physics searches in the ZZ sector with the ATLAS experiment](https://www.repository.cam.ac.uk/items/c40242a4-ba90-411c-afa3-3c2eef841f46)
-  - Processing and statistical analysis of data from the LHC @ [CERN](https://home.cern/)
+  - Wrote C++/Python algorithms to process and analyze data from the LHC @ [CERN](https://home.cern/)
   - Development of embedded readout software for the Data Acquistion System of the ATLAS Semiconductor Tracker 
 * MSc. Natural Sciences @ [University of Cambridge](https://www.cam.ac.uk/) *(2001-2005)*
-  - Subjects: Maths, Physics
+  - Subjects: Maths, Advanced Physics
   - Result: First (Outstanding)
 * GCE A-Levels @ [King Edward VI Grammar School](https://www.kegs.org.uk/) *(1994-2001)*
   - Maths, Physics, Chemistry, Music, General Studies
