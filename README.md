@@ -72,7 +72,7 @@ A selected list of publications is shown below. A full list is available on [Goo
 
 [![](https://img.shields.io/badge/ThomasBarber-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-barber-b3965551/) &nbsp; [![](https://img.shields.io/badge/tmbrbr-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmbrbr) &nbsp; [![](https://img.shields.io/badge/Google%20Scholar-lightgray?style=for-the-badge&logo=googlescholar&logoColor=blue)](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate)
 
-An online version of this resume is available as [HTML](https://tmbrbr.github.io/resume) / [https://tmbrbr.github.io/resume/thomas-barber.pdf](PDF) / [https://github.com/tmbrbr/resume](Markdown)
+An online version of this resume is available as [HTML](https://tmbrbr.github.io/resume) / [PDF](https://tmbrbr.github.io/resume/thomas-barber.pdf) / [Markdown](https://github.com/tmbrbr/resume/README.md)
 
 
 
