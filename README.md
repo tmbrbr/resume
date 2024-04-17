@@ -1,4 +1,4 @@
-# Thomas Barber
+# Thomas Barber - CV
 Software developer and researcher with a passion for digging into, understanding and solving problems in complex systems.
 
 ## Professional Experience
