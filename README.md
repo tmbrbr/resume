@@ -1,12 +1,11 @@
 [![](https://img.shields.io/badge/ThomasBarber-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-barber-b3965551/) &nbsp; [![](https://img.shields.io/badge/tmbrbr-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmbrbr) &nbsp; [![](https://img.shields.io/badge/Google%20Scholar-lightgray?style=for-the-badge&logo=googlescholar&logoColor=blue)](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate)
 
 # Thomas Barber
-I am a software developer and researcher with a passion for digging into, understanding and solving problems in complex systems.
-I have a broad range of experience across a broad range of platforms from embedded devices to cloud-based web applications.
+Software developer and researcher with a passion for digging into, understanding and solving problems in complex systems.
 
 ## Skills and Expertise
  * Programming Skills: C/C++, Python, Java, JavaScript, C#
- * Platforms: Linux, Windows, Docker, Git, Jenkins
+ * Enviornments: Linux, Windows, Docker, Git, Jenkins
  * Languages: English *(native)*, German *(working proficiency)*, French *(basic)*
 
 ## Professional Experience
