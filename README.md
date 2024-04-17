@@ -1,24 +1,27 @@
 [![](https://img.shields.io/badge/ThomasBarber-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-barber-b3965551/) &nbsp; [![](https://img.shields.io/badge/tmbrbr-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmbrbr) &nbsp; [![](https://img.shields.io/badge/Google%20Scholar-lightgray?style=for-the-badge&logo=googlescholar&logoColor=blue)](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate)
 
 # Thomas Barber
-An online version of this resume is available [here](https://tmbrbr.github.io/resume/).
+I am a software developer and researcher with a passion for digging into, understanding and solving problems in complex systems.
+I have a broad range of experience across a broad range of platforms from embedded devices to cloud-based web applications.
 
 ## Skills and Expertise
- * Programming Skills: C/C++, Python, Java, JavaScript, C# 
- * Languages: English (native), German (working proficiency), French (basic)
+ * Programming Skills: C/C++, Python, Java, JavaScript, C#
+ * Platforms: Linux, Windows, Docker, Git, Jenkins
+ * Languages: English *(native)*, German *(working proficiency)*, French *(basic)*
 
 ## Professional Experience
 
 **Research Expert** @ [SAP SE](https://www.sap.com/) *(2019 - Present)*
-* Industrial research into novel techniques for the detection of security and privacy vulnerabilities in web applications.
-* Security use-cases include the detection and prevention of injection vulnerabilties (XSS, CSRF, Request Hijacking) for interpreted languages (e.g. JavaScript, Java).
-* Privacy use-cases include automating GDPR compliance for legacy applications, and high-accuracy detection of browser fingerprinting.
-* Publication of results in top security conferences and transfer of prototypes into SAP.
+* Industrial research into novel techniques in the field of vulnerability detection, active defense and threat monitoring for web applications.
+* Developed methods for the detection and prevention of cybersecurity vulnerabilties for interpreted languages (e.g. JavaScript, Java).
+* Applied techniques to privacy use-cases such as automating GDPR compliance for legacy applications, and high-accuracy detection of browser fingerprinting.
+* Publication of results in top security conferences and transfer of prototypes into SAP Lines of Business.
+* Active involvement in public funded projects: Principle investigator @ [ENCOPIA](https://encopia.org/) and researcher @ [TESTABLE](https://testable.eu/).
 * Supervision of PhD and Master's Students and collaboration with external partners from industry and academia across the globe.
 
 **Senior Software Developer** @ [Intel](https://intel.com/) *(2014 - 2019)*
-* Designed and developed security software for next-generation automotive infotainment and software-defined cockpit platforms.
-* Including key storage solutions in trusted execution environments such as Linux kernel and Intel SGX.
+* Designed security software for next-generation automotive infotainment and software-defined cockpit platforms.
+* Developed key storage solutions in trusted execution environments such as the Linux kernel and Intel SGX.
 * Digital Rights Management solutions such as Widevine and HDCP.
 * Security Champion for the Transportation Solutions Division.
 * Scrum master for the Automotive Security team.
@@ -30,10 +33,9 @@ An online version of this resume is available [here](https://tmbrbr.github.io/re
 **Postdoctoral Researcher** @ [University of Freiburg](https://uni-freiburg.de/) *(2010 - 2012)*
  * Analysed the first particle collision data from the ATLAS experiment at CERN to search for new Supersymmetric particles beyond the current Standard Model.
  * In parallel I engaged in Research and Development activities for the next generation of silicon-based particle detectors, including novel radiation detection systems.
- * This position included supervising PhD students and teaching undergraduate students.
 
 ## Open Source Projects
- * **Lead developer and maintainer** of [Project Foxhound](https://github.com/SAP/project-foxhound), an instrumented fork of the Firefox browser for security testing.
+ * **Lead developer and maintainer** of [Project Foxhound](https://github.com/SAP/project-foxhound), an instrumented fork of the Firefox browser for security testing (Listen to the [podcast](https://podcast.opensap.info/open-source-way/2023/10/25/project-foxhound-hunting-cross-site-scripting-on-the-web/)!). 
  * **Developer** of [Fontus](https://github.com/SAP/project-fontus), a bytecode rewriting engine for security and privacy policy enforcement.
  * **Lead developer** of the [Sanitizer Checker](https://github.com/SAP/sanitizer-checker), a symbolic string analysis framework to evaluate the security of sanitization functions.
 
@@ -46,11 +48,11 @@ An online version of this resume is available [here](https://tmbrbr.github.io/re
 
 **MSc. Natural Sciences** @ [University of Cambridge](https://www.cam.ac.uk/) *(2001-2005)*
  - Subjects: Maths, Advanced Physics
- - Result: First (Outstanding)
+ - Result: **First** *(Outstanding)*
 
 **GCE A-Levels** @ [King Edward VI Grammar School](https://www.kegs.org.uk/) *(1994-2001)*
  - Maths, Physics, Chemistry, Music, General Studies
- - Results: All grade A (Outstanding)
+ - Results: **All grade A** *(Outstanding)*
 
 ## Patents
  * [US11526600B2](https://patents.google.com/patent/US11526600B2/en): Taint tracking via non-intrusive bytecode instrumentation
@@ -69,7 +71,7 @@ A selected list of publications is shown below. A full list is available on [Goo
 * **Doncaster Prize** @ Univesity of Cambridge *(2005)* for exam results in Natural Sciences.
 * **Cormack Scholarship** @ University of Edinburgh *(2004)* for best summer student project in astrophysics.
 
-
+An online version of this resume is available [here](https://tmbrbr.github.io/resume/).
 
 
 
