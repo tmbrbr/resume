@@ -30,6 +30,12 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y wkhtmltopdf
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Create PDF
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./
+          output_dir: pdfs
+          build_html: false
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
@@ -37,10 +43,8 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: Create PDF version
-        run: wkhtmltopdf  --enable-local-file-access ./_site/index.html cv.pdf
       - name: Add PDF to site
-        run: cp cv.pdf ./_site/thomas-barber.pdf
+        run: cp pdfs/README.pdf ./_site/thomas-barber.pdf
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
