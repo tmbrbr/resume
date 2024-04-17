@@ -26,8 +26,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Install dependencies
-        run: sudo apt-get update && sudo apt-get install -y wkhtmltopdf
       - name: Checkout
         uses: actions/checkout@v4
       - name: Create PDF
@@ -44,7 +42,7 @@ jobs:
           source: ./
           destination: ./_site
       - name: Add PDF to site
-        run: cp pdfs/README.pdf ./_site/thomas-barber.pdf
+        run: sudo cp pdfs/README.pdf ./_site/thomas-barber.pdf
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
