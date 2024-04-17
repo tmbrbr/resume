@@ -1,13 +1,6 @@
 # Thomas Barber
 Software developer and researcher with a passion for digging into, understanding and solving problems in complex systems.
 
-[![](https://img.shields.io/badge/ThomasBarber-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-barber-b3965551/) &nbsp; [![](https://img.shields.io/badge/tmbrbr-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmbrbr) &nbsp; [![](https://img.shields.io/badge/Google%20Scholar-lightgray?style=for-the-badge&logo=googlescholar&logoColor=blue)](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate)
-
-## Skills and Expertise
- * Programming Skills: C/C++, Python, Java, JavaScript, C#
- * Enviornments: Linux, Windows, Docker, Git, Jenkins
- * Languages: English *(native)*, German *(working proficiency)*, French *(basic)*
-
 ## Professional Experience
 
 **Research Expert** @ [SAP SE](https://www.sap.com/) *(2019 - Present)*
@@ -64,11 +57,18 @@ A selected list of publications is shown below. A full list is available on [Goo
  *  [General Data Protection Runtime: Enforcing Transparent GDPR Compliance for Existing Applications](https://loxo.ias.cs.tu-bs.de/papers/2023_CCS_GDPR_tainting.pdf), David Klein, Benny Rolle, Thomas Barber, Manuel Karl, and Martin Johns. In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS '23)
  *  [Hand Sanitizers in the Wild: A Large-scale Study of Custom JavaScript Sanitizer Functions](https://loxo.ias.cs.tu-bs.de/papers/2022_EuroSP_JavaScript_Sanitizers.pdf). David Klein, Thomas Barber, Souphiane Bensalim, Ben Stock, Martin Johns, 7th IEEE European Symposium on Security and Privacy (EuroS&P 2022)
 
+## Skills and Expertise
+ * Programming Skills: C/C++, Python, Java, JavaScript, C#
+ * Enviornments: Linux, Windows, Docker, Git, Jenkins
+ * Languages: English *(native)*, German *(working proficiency)*, French *(basic)*
+
 ## Awards
 * **Spot Awards** @ SAP *(2020, 2021, 2023)* for outstanding performance.
 * **Divisional Recognition Awards** @ Intel *(2018)* for designing and implementing a software solution to meet strict customer deadlines.
 * **Doncaster Prize** @ Univesity of Cambridge *(2005)* for exam results in Natural Sciences.
 * **Cormack Scholarship** @ University of Edinburgh *(2004)* for best summer student project in astrophysics.
+
+[![](https://img.shields.io/badge/ThomasBarber-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-barber-b3965551/) &nbsp; [![](https://img.shields.io/badge/tmbrbr-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmbrbr) &nbsp; [![](https://img.shields.io/badge/Google%20Scholar-lightgray?style=for-the-badge&logo=googlescholar&logoColor=blue)](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate)
 
 An online version of this resume is available [here](https://tmbrbr.github.io/resume/).
 
