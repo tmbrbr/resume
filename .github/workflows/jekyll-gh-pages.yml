@@ -26,6 +26,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y wkhtmltopdf
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Pages
@@ -35,6 +37,8 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Create PDF version
+        run: wkhtmltopdf ./_site cv.pdf
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
