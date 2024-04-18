@@ -5,7 +5,7 @@ Experienced Security Researcher and Software developer with a passion for diggin
 
 ## Professional Experience
 
-**Research Expert** @ [SAP SE](https://www.sap.com/) *(2019 - Present)*
+**Research Expert** @ [SAP SE](https://www.sap.com/) *(Feb 2019 - Present)*
 * Industrial research into novel techniques in the field of vulnerability detection, active defense and threat monitoring for web applications.
 * Developed methods for the detection and prevention of cybersecurity vulnerabilties for interpreted languages (e.g. JavaScript, Java).
 * Applied techniques to privacy use-cases such as automating GDPR compliance for legacy applications, and high-accuracy detection of browser fingerprinting.
@@ -13,18 +13,18 @@ Experienced Security Researcher and Software developer with a passion for diggin
 * Active involvement in public funded projects: Principle investigator @ [ENCOPIA](https://encopia.org/) and researcher @ [TESTABLE](https://testable.eu/).
 * Supervision of PhD and Master's Students and collaboration with external partners from industry and academia across the globe.
 
-**Senior Software Developer** @ [Intel](https://intel.com/) *(2014 - 2019)*
+**Senior Software Developer** @ [Intel](https://intel.com/) *(May 2014 - Feb 2019)*
 * Designed security software for next-generation automotive infotainment and software-defined cockpit platforms.
 * Developed key storage solutions in trusted execution environments such as the Linux kernel and Intel SGX.
 * Digital Rights Management solutions such as Widevine and HDCP.
 * Security Champion for the Transportation Solutions Division.
 * Scrum master for the Automotive Security team.
 
-**Software Developer** @ [Vector](https://www.vector.com/) *(2013 - 2014)*
+**Software Developer** @ [Vector](https://www.vector.com/) *(Jan 2013 - Apr 2014)*
  * Automotive firmware developer with a focus on the XCP remote calibration protocol over ethernet.
  * Designed and implemented an automated continuous regression test system to provide continuous integration of new features.
 
-**Postdoctoral Researcher** @ [University of Freiburg](https://uni-freiburg.de/) *(2010 - 2012)*
+**Postdoctoral Researcher** @ [University of Freiburg](https://uni-freiburg.de/) *(Nov 2010 - Dec 2012)*
  * Analysed the first particle collision data from the ATLAS experiment at CERN to search for new Supersymmetric particles beyond the current Standard Model.
  * In parallel I engaged in Research and Development activities for the next generation of silicon-based particle detectors, including novel radiation detection systems.
 
