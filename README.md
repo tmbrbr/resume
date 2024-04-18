@@ -1,5 +1,7 @@
 # Thomas Barber - CV
-Software developer and researcher with a passion for digging into, understanding and solving problems in complex systems.
+Experienced Security Researcher and Software developer with a passion for digging into, understanding and solving problems in complex systems.
+
+[LinkedIn](https://www.linkedin.com/in/thomas-barber-b3965551/) / [GitHub](https://github.com/tmbrbr) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Professional Experience
 
