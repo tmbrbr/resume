@@ -49,15 +49,15 @@ Experienced Security Researcher and Software developer with a passion for diggin
  - Results: **All grade A** *(Outstanding)*
 
 ## Patents
- * [US11526600B2](https://patents.google.com/patent/US11526600B2/en): Taint tracking via non-intrusive bytecode instrumentation
- * [US20230177166A1](https://patents.google.com/patent/US20230177166A1/en): Security Vulnerability Detection
- * [US20230252159A1](https://patents.google.com/patent/US20230252159A1/en): String Sanitizer Modeling
+ * **Taint tracking via non-intrusive bytecode instrumentation**: [US11526600B2](https://patents.google.com/patent/US11526600B2/en)
+ * **Security Vulnerability Detection**: [US20230177166A1](https://patents.google.com/patent/US20230177166A1/en)
+ * **String Sanitizer Modeling**: [US20230252159A1](https://patents.google.com/patent/US20230252159A1/en)
 
 ## Publications
 A selected list of publications is shown below. A full list is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate).
- *  [The Great Request Robbery: An Empirical Study of Client-side Request Hijacking Vulnerabilities on the Web](https://trouge.net/papers/sp24_request_hijacking.pdf), Khodayari, Soheil and Barber, Thomas and Pellegrino, Giancarlo. Proceedings of 45th IEEE Symposium on Security and Privacy, 2024
- *  [General Data Protection Runtime: Enforcing Transparent GDPR Compliance for Existing Applications](https://loxo.ias.cs.tu-bs.de/papers/2023_CCS_GDPR_tainting.pdf), David Klein, Benny Rolle, Thomas Barber, Manuel Karl, and Martin Johns. In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS '23)
- *  [Hand Sanitizers in the Wild: A Large-scale Study of Custom JavaScript Sanitizer Functions](https://loxo.ias.cs.tu-bs.de/papers/2022_EuroSP_JavaScript_Sanitizers.pdf). David Klein, Thomas Barber, Souphiane Bensalim, Ben Stock, Martin Johns, 7th IEEE European Symposium on Security and Privacy (EuroS&P 2022)
+ *  [The Great Request Robbery: An Empirical Study of Client-side Request Hijacking Vulnerabilities on the Web](https://trouge.net/papers/sp24_request_hijacking.pdf), Soheil Khodayari, Thomas Barber and Giancarlo Pellegrino. *Proceedings of 45th IEEE Symposium on Security and Privacy, 2024 (S&P '24)*
+ *  [General Data Protection Runtime: Enforcing Transparent GDPR Compliance for Existing Applications](https://loxo.ias.cs.tu-bs.de/papers/2023_CCS_GDPR_tainting.pdf), David Klein, Benny Rolle, Thomas Barber, Manuel Karl, and Martin Johns. *Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS '23)*
+ *  [Hand Sanitizers in the Wild: A Large-scale Study of Custom JavaScript Sanitizer Functions](https://loxo.ias.cs.tu-bs.de/papers/2022_EuroSP_JavaScript_Sanitizers.pdf). David Klein, Thomas Barber, Souphiane Bensalim, Ben Stock, Martin Johns, *7th IEEE European Symposium on Security and Privacy (EuroS&P 2022)*
 
 ## Skills and Expertise
  * Programming Skills: C/C++, Python, Java, JavaScript, C#
