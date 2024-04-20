@@ -11,7 +11,7 @@ Experienced Security Researcher and Software developer with a passion for diggin
 * Applied techniques to privacy use-cases such as automating GDPR compliance for legacy applications, and high-accuracy detection of browser fingerprinting.
 * Publication of results in top security conferences and transfer of prototypes into SAP Lines of Business.
 * Active involvement in public funded projects: Principle investigator @ [ENCOPIA](https://encopia.org/) and researcher @ [TESTABLE](https://testable.eu/).
-* Supervision of PhD and Master's Students and collaboration with external partners from industry and academia across the globe.
+* Supervision of PhD and Master's students and international collaboration with external partners from industry and academia.
 
 **Senior Software Developer** @ [Intel](https://intel.com/) *(May 2014 - Feb 2019)*
 * Designed security software for next-generation automotive infotainment and software-defined cockpit platforms.
