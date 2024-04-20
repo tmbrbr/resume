@@ -1,4 +1,4 @@
-# Thomas Barber - CV
+# Dr. Thomas Barber - CV
 Experienced Security Researcher and Software developer with a passion for digging into, understanding and solving problems in complex systems.
 
 [LinkedIn](https://www.linkedin.com/in/thomas-barber-b3965551/) / [GitHub](https://github.com/tmbrbr) / [Google Scholar](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate)
@@ -26,7 +26,7 @@ Experienced Security Researcher and Software developer with a passion for diggin
 
 **Postdoctoral Researcher** @ [University of Freiburg](https://uni-freiburg.de/) *(Nov 2010 - Dec 2012)*
  * Analysed the first particle collision data from the ATLAS experiment at CERN to search for new Supersymmetric particles beyond the current Standard Model.
- * In parallel I engaged in Research and Development activities for the next generation of silicon-based particle detectors, including novel radiation detection systems.
+ * Engaged in Research and Development activities for the next generation of silicon-based particle detectors, including novel radiation detection systems.
 
 ## Open Source Projects
  * **Lead developer and maintainer** of [Project Foxhound](https://github.com/SAP/project-foxhound), an instrumented fork of the Firefox browser for security testing (Listen to the [podcast](https://podcast.opensap.info/open-source-way/2023/10/25/project-foxhound-hunting-cross-site-scripting-on-the-web/)!). 
@@ -49,9 +49,9 @@ Experienced Security Researcher and Software developer with a passion for diggin
  - Results: **All grade A** *(Outstanding)*
 
 ## Patents
- * **Taint tracking via non-intrusive bytecode instrumentation**: [US11526600B2](https://patents.google.com/patent/US11526600B2/en)
- * **Security Vulnerability Detection**: [US20230177166A1](https://patents.google.com/patent/US20230177166A1/en)
- * **String Sanitizer Modeling**: [US20230252159A1](https://patents.google.com/patent/US20230252159A1/en)
+ * Taint tracking via non-intrusive bytecode instrumentation: [US11526600B2](https://patents.google.com/patent/US11526600B2/en)
+ * Security Vulnerability Detection: [US20230177166A1](https://patents.google.com/patent/US20230177166A1/en)
+ * String Sanitizer Modeling: [US20230252159A1](https://patents.google.com/patent/US20230252159A1/en)
 
 ## Publications
 A selected list of publications is shown below. A full list is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate).
@@ -74,7 +74,7 @@ A selected list of publications is shown below. A full list is available on [Goo
 
 [![](https://img.shields.io/badge/ThomasBarber-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-barber-b3965551/) &nbsp; [![](https://img.shields.io/badge/tmbrbr-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmbrbr) &nbsp; [![](https://img.shields.io/badge/Google%20Scholar-lightgray?style=for-the-badge&logo=googlescholar&logoColor=blue)](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate)
 
-An online version of this resume is available as [HTML](https://tmbrbr.github.io/resume) / [PDF](https://tmbrbr.github.io/resume/thomas-barber.pdf) / [Markdown](https://github.com/tmbrbr/resume/README.md)
+An online version of this resume is available as [HTML](https://tmbrbr.github.io/resume) / [PDF](https://tmbrbr.github.io/resume/thomas-barber.pdf) / [Markdown](https://github.com/tmbrbr/resume)
 
 
 
