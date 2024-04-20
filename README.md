@@ -49,9 +49,9 @@ Experienced Security Researcher and Software developer with a passion for diggin
  - Results: **All grade A** *(Outstanding)*
 
 ## Patents
- * Taint tracking via non-intrusive bytecode instrumentation: [US11526600B2](https://patents.google.com/patent/US11526600B2/en)
- * Security Vulnerability Detection: [US20230177166A1](https://patents.google.com/patent/US20230177166A1/en)
- * String Sanitizer Modeling: [US20230252159A1](https://patents.google.com/patent/US20230252159A1/en)
+ * [Taint tracking via non-intrusive bytecode instrumentation](https://patents.google.com/patent/US11526600B2/en): US11526600B2
+ * [Security Vulnerability Detection](https://patents.google.com/patent/US20230177166A1/en): US20230177166A1
+ * [String Sanitizer Modeling](https://patents.google.com/patent/US20230252159A1/en): US20230252159A1
 
 ## Publications
 A selected list of publications is shown below. A full list is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate).
