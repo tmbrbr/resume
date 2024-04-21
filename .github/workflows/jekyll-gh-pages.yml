@@ -34,6 +34,7 @@ jobs:
           input_dir: ./
           output_dir: pdfs
           build_html: false
+          template: template.html
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
