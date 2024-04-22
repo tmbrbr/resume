@@ -34,7 +34,7 @@ jobs:
           input_dir: ./
           output_dir: pdfs
           images_dir: assets/img
-          build_html: false
+          build_html: true
           template: template.html
           image_import: ./img
       - name: Setup Pages
