@@ -33,6 +33,7 @@ jobs:
         with:
           input_dir: ./
           output_dir: pdfs
+          images_dir: assets
           build_html: false
           template: template.html
           image_import: ./assets
