@@ -37,6 +37,7 @@ jobs:
           build_html: true
           template: template.html
           image_import: ./assets/img
+          theme: pdf.css
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
