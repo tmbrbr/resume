@@ -10,3 +10,4 @@ docker run \
        -v ${PWD}:"/github/workspace" \
        ghcr.io/baileyjm02/markdown-to-pdf/markdown-to-pdf:latest
 
+mv README.pdf thomas-barber.pdf
