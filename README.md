@@ -65,6 +65,7 @@ A selected list of publications is shown below. A full list is available on [Goo
  * Languages: English *(native)*, German *(working proficiency)*, French *(basic)*
 
 ## Awards
+* **Distinguished Paper Award** @ [IEEE S&P](https://www.ieee-security.org/TC/SP2024/) *(2024)* for our paper on Client-Side Request Hijacking
 * **Spot Awards** @ SAP *(2020, 2021, 2023)* for outstanding performance.
 * **Divisional Recognition Awards** @ Intel *(2018)* for designing and implementing a software solution to meet strict customer deadlines.
 * **Doncaster Prize** @ Univesity of Cambridge *(2005)* for exam results in Natural Sciences.
