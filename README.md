@@ -55,10 +55,10 @@ Experienced Security Researcher and Software developer with a passion for diggin
 
 ## Publications
 A selected list of publications is shown below. A full list is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=C_4bRjsAAAAJ&view_op=list_works&sortby=pubdate).
- *  [FP-tracer: Fine-grained Browser Fingerprinting Detection via Taint-tracking and Entropy-based Thresholds](https://petsymposium.org/popets/2024/popets-2024-0092.pdf), Soumaya Boussaha et al. *Proceedings on Privacy Enhancing Technologies, 2024 (PoPETS '24)*
- *  [The Great Request Robbery: An Empirical Study of Client-side Request Hijacking Vulnerabilities on the Web](https://trouge.net/papers/sp24_request_hijacking.pdf), Soheil Khodayari, Thomas Barber and Giancarlo Pellegrino. *Proceedings of 45th IEEE Symposium on Security and Privacy, 2024 (S&P '24)*
- *  [General Data Protection Runtime: Enforcing Transparent GDPR Compliance for Existing Applications](https://loxo.ias.cs.tu-bs.de/papers/2023_CCS_GDPR_tainting.pdf), David Klein, Benny Rolle, Thomas Barber, Manuel Karl, and Martin Johns. *Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS '23)*
- *  [Hand Sanitizers in the Wild: A Large-scale Study of Custom JavaScript Sanitizer Functions](https://loxo.ias.cs.tu-bs.de/papers/2022_EuroSP_JavaScript_Sanitizers.pdf). David Klein, Thomas Barber, Souphiane Bensalim, Ben Stock, Martin Johns, *7th IEEE European Symposium on Security and Privacy (EuroS&P 2022)*
+ *  **FP-tracer: Fine-grained Browser Fingerprinting Detection via Taint-tracking and Entropy-based Thresholds**, Soumaya Boussaha et al. *Proceedings on Privacy Enhancing Technologies, 2024 (PoPETS '24)* ([pdf](https://petsymposium.org/popets/2024/popets-2024-0092.pdf))
+ *  **The Great Request Robbery: An Empirical Study of Client-side Request Hijacking Vulnerabilities on the Web**, Soheil Khodayari, Thomas Barber and Giancarlo Pellegrino. *Proceedings of 45th IEEE Symposium on Security and Privacy, 2024 (S&P '24)* ([pdf](https://trouge.net/papers/sp24_request_hijacking.pdf), [video](https://youtu.be/iZ8F1h51zas?feature=shared))
+ *  **General Data Protection Runtime: Enforcing Transparent GDPR Compliance for Existing Applications**, David Klein, Benny Rolle, Thomas Barber, Manuel Karl, and Martin Johns. *Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS '23)* ([pdf](https://loxo.ias.cs.tu-bs.de/papers/2023_CCS_GDPR_tainting.pdf))
+ *  **Hand Sanitizers in the Wild: A Large-scale Study of Custom JavaScript Sanitizer Functions**, David Klein, Thomas Barber, Souphiane Bensalim, Ben Stock, Martin Johns, *7th IEEE European Symposium on Security and Privacy (EuroS&P 2022)* ([pdf](https://loxo.ias.cs.tu-bs.de/papers/2022_EuroSP_JavaScript_Sanitizers.pdf))
 
 ## Skills and Expertise
  * Programming Skills: C/C++, Python, Java, JavaScript, C#
