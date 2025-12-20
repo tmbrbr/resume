@@ -5,7 +5,14 @@ Experienced Security Researcher and Software developer with a passion for diggin
 
 ## Professional Experience
 
-**Research Expert** @ [SAP SE](https://www.sap.com/) *(Feb 2019 - Present)*
+**Product Security Expert** @ [SAP SE](https://www.sap.com/) *(Sep 2024 - Present)*
+* Vulnerability management and incident response.
+* Expert in scanning technologies for web applications.
+* Technical analysis of vulnerabilties and cyber threats.
+* Penetration testing and white hat hacking.
+* Compliance with cybersecurity certifications and regulations.
+
+**Research Expert** @ [SAP SE](https://www.sap.com/) *(Feb 2019 - Aug 2024)*
 * Industrial research into novel techniques in the field of vulnerability detection, active defense and threat monitoring for web applications.
 * Developed methods for the detection and prevention of cybersecurity vulnerabilties for interpreted languages (e.g. JavaScript, Java).
 * Applied techniques to privacy use-cases such as automating GDPR compliance for legacy applications, and high-accuracy detection of browser fingerprinting.
